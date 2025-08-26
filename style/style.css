@@ -39,7 +39,7 @@ p {
     border-radius: 15px;
     box-shadow: 0 10px 15px rgba(0,0,0,0.1);
     text-align: center;
-    font-family: 'Outfit';
+    font-family: 'Outfit', sans-serif;
     font-weight: 400, 700;
     background-color: #ffffff;
     margin: auto;
@@ -52,5 +52,6 @@ p {
     text-align: center;
 
 }
+
 
 
